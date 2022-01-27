@@ -1,0 +1,37 @@
+body{
+  background-color:#1A374D;
+}
+h1{
+  color: #77D970;
+  font-family: cursive;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 6rem;
+  padding:7% 15%;
+
+}
+.col{
+  padding-left: 40%;
+
+}
+.col1{
+    padding-right: 7%;
+}
+p{
+  font-family:cursive;
+  font-weight: bolder;
+  color: #77D970;
+}
+/* footer section */
+footer{
+  padding: 10% 15%;
+  text-align:center;
+  color: white;
+}
+.dice{
+  width: 100px;
+  height: 100px;
+}
+.img{
+  width:100px;
+}
